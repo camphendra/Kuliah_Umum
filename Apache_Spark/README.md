@@ -87,8 +87,8 @@ Password:
 Setting *environtment* spark
 ```sh
 export PATH=$PATH:/usr/local/spark/bin
-
-```Gunakan perintah berikut untuk *sourcing* file ~/.bashrc
+```
+Gunakan perintah berikut untuk *sourcing* file ~/.bashrc
 ```sh
 source ~/.bashrc
 ```
