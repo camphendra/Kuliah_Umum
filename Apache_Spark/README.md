@@ -54,6 +54,10 @@ Gunakan perintah berikut untuk set Path Scala
 ```sh
 export PATH = $PATH:/usr/local/scala/bin
 ```
+Atau install scala melalui shell dengan mengetik *command* berikut ini
+```sh
+sudo apt install scala
+```
 Selanjutnya lakukan verifikasi scala
 ```sh
 scala -version
