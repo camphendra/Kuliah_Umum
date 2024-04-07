@@ -98,12 +98,4 @@ Jika apache spark telah terinstall dengan benar, maka akan muncul tampilan seper
     Type in expressions to have them evaluated. 
     Spark context available as sc  
     scala>
-Demikian tutorial cara install Apache Spark pada sistem operasi Linux Mint.
-
-    Contributor: 
-    Hendra
-    Email: camp.hendra@gmail.com
-    Mahasiswa Pasca Sarjana 
-    Program Studi Magister Teknologi Informasi 
-    STMIK Akakom Yogyakarta
-    ~ Yogyakarta, 6 April 2020 ~
+Demikian tutorial cara install Apache Spark pada sistem operasi Linux
